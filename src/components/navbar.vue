@@ -16,6 +16,7 @@
         <div class="text-sm"> 
             <router-link class="nav-link" to="/">Home</router-link> 
             <router-link class="nav-link" to="/about">About</router-link>
+            <router-link class="nav-link" to="/help">Help</router-link>
         </div>
 
     </div>

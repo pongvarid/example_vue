@@ -1,1 +1,5 @@
- 
+@import url('https://fonts.googleapis.com/css?family=Kanit:300&display=swap');
+
+*{
+    font-family: 'Kanit', sans-serif; 
+}
