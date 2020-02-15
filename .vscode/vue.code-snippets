@@ -194,6 +194,15 @@
 	"lalert-blue":{
 		"prefix":"lalert-blue",
 		"body":"await store.dispatch('alert/onBlue',{text:'$text message'}) "
+	},
+
+	"@screen":{
+		"prefix":"@screen",
+		"body":["",
+		"@screen lg {", 
+		"",
+		"}"
+	]
 	}
 	
 }    
